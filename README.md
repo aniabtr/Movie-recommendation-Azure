@@ -30,7 +30,7 @@ This project implements a movie recommendation system using Azure services, with
 
 ### 5. Email Notification
 - A Logic App is integrated into the pipeline to send an email notification.
-- This step informs relevant stakeholders about the pipeline's completion or any important outcomes.
+- This step informs relevant stakeholders about the pipeline's completion or any important outcomes as well as the recommanded movie.
 
 ## Key Technologies Used
 
